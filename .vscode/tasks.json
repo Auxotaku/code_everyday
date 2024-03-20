@@ -6,7 +6,7 @@
 						// command是命令的意思,在这里就是用哪个编译器的意思
 						// 后面跟的地址是你的第一步要添加进环境变量的地址下面的g++.exe
 						// 代表使用的是这个编译器.
-            "command": "C:\\msys64\\mingw64\\bin\\g++.exe",
+            "command": "C:\\msys64_v2\\mingw64\\bin\\g++.exe",
             "args": [
 								/*
 									args的作用是为了添加参数
